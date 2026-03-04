@@ -21,3 +21,4 @@ Configuring the Network Settings
 
 Logging in using Domain Admin account
 AFter configuring all of the things above I restarted the Windows Server. After restarting the Server requires to log in using domain admin which in my case is TRINITY\Admin
+<img width="1720" height="894" alt="Image" src="https://github.com/user-attachments/assets/b907b38a-ca16-4e1b-bd69-ca4f83df554d" />
