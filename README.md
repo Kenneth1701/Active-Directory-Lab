@@ -7,3 +7,14 @@ Installing Windows Server 2022 ISO
 
 Accsess to the Server Manager
 <img width="1919" height="957" alt="Image" src="https://github.com/user-attachments/assets/7640ad86-a7cb-42f0-8491-2e6726ed9e1d" />
+
+Configuring the Network Settings
+  I configured my Windows server with:
+    - Customise computer name
+    - Domain name: trinity.com
+    - Remote Desktop Enabled
+    - Static Ip address: 192.168.58.3 /24
+    - Subnet Mask: 255.255.255.0
+    - IP default gateway: 192.168.58.2 /24
+    - DNS IP address: 127.0.0.1 (this address means that the dns server is pointing to its ownself)
+    
