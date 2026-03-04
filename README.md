@@ -17,4 +17,4 @@ Configuring the Network Settings
     - Subnet Mask: 255.255.255.0
     - IP default gateway: 192.168.58.2 /24
     - DNS IP address: 127.0.0.1 (this address means that the dns server is pointing to its ownself)
-    
+<img width="1718" height="865" alt="Image" src="https://github.com/user-attachments/assets/55417860-56de-4b55-a5b1-6188a19bd98f" />
