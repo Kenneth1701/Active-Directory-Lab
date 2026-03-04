@@ -6,3 +6,4 @@ Installing Windows Server 2022 ISO
 <img width="1919" height="956" alt="Image" src="https://github.com/user-attachments/assets/230a7390-8318-426b-a796-ba459c7d99c2" />
 
 Accsess to the Server Manager
+<img width="1919" height="957" alt="Image" src="https://github.com/user-attachments/assets/7640ad86-a7cb-42f0-8491-2e6726ed9e1d" />
