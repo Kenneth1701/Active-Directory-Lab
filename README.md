@@ -18,3 +18,6 @@ Configuring the Network Settings
     - IP default gateway: 192.168.58.2 /24
     - DNS IP address: 127.0.0.1 (this address means that the dns server is pointing to its ownself)
 <img width="1718" height="865" alt="Image" src="https://github.com/user-attachments/assets/55417860-56de-4b55-a5b1-6188a19bd98f" />
+
+Logging in using Domain Admin account
+AFter configuring all of the things above I restarted the Windows Server. After restarting the Server requires to log in using domain admin which in my case is TRINITY\Admin
