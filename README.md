@@ -1,4 +1,6 @@
 # Active-Directory-Lab
 This is Home lab that I design to extend my knowledge in Active Directory and DNS 
 To begin this lab I Installed Windows Server 2022 ISO and Windows 10 Enterprise ISO. I downloaded the VMWare for the hypervisor to virtualise Windows Server 2022 and Windows 10 Enterprise
-I begin With installing Windows Server 2022
+
+Installing Windows Server 2022 ISO
+<img width="1919" height="956" alt="Image" src="https://github.com/user-attachments/assets/230a7390-8318-426b-a796-ba459c7d99c2" />
