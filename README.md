@@ -41,6 +41,8 @@ Domain Controllet Setup
 Client Domain Join
 - Connected client machine to the domain
 - Verified domain authentication
+![image alt](https://github.com/Kenneth1701/Active-Directory-Lab/blob/169a332a59376fef5b3573f8ef7c40e040ad0a99/Adding%20user%20to%20domain.png)
+
 - Tested connectivity using:
     - ping
     - SMB access
