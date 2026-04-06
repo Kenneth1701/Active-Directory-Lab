@@ -55,7 +55,9 @@ File Sharing & Permission
 - Created shared folder on Domain Controller
 - Configured:
     - Share permissions
+![image alt](https://github.com/Kenneth1701/Active-Directory-Lab/blob/0cba6a08974e687c8c367202db7a352932c5444f/Share%20Permision.png)
     - NTFS permissions
+![image alt](https://github.com/Kenneth1701/Active-Directory-Lab/blob/81e5b445364454780721e9f9991ecd68ef821e72/NTFS%20Permssion.png)
 - Assigned access via security groups
 
 Troubleshoting Scenarios
@@ -83,6 +85,10 @@ Resolution
 - User logged back into the domain
 - Group membership and permission refreshed
 - Access to shared folder (read/write) successfully restored
+
+![image alt](https://github.com/Kenneth1701/Active-Directory-Lab/blob/0cba6a08974e687c8c367202db7a352932c5444f/Final%20Result.png)
+
+
 
 
 
