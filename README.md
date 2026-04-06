@@ -36,7 +36,7 @@ Domain Controllet Setup
 - Installed Active Directory Domain Services
 - Promoted server to Domain Controller
 - Configured domain environment
-https://github.com/Kenneth1701/Active-Directory-Lab/blob/85c74cb61ae1deeb6e4b956fe69b70c7b1de928a/Setting%20up%20Static%20Ip%20address%20and%20DS.png
+![image alt](https://github.com/Kenneth1701/Active-Directory-Lab/blob/85c74cb61ae1deeb6e4b956fe69b70c7b1de928a/Setting%20up%20Static%20Ip%20address%20and%20DS.png)
 
 Client Domain Join
 - Connected client machine to the domain
