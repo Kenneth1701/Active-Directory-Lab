@@ -65,6 +65,7 @@ Client -> Domain Controller -> Authentication -> Shared Folder Access
 🧪 **Troubleshoting Scenarios**
 🔥 **Scenario: User Cannot Access Shared Folder**
 ❌ **Issue**
+
 - User could see the shared folder
 - Unable to read or write inside the folder
 - Permissions appeared correctly configured
