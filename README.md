@@ -62,7 +62,7 @@ Client -> Domain Controller -> Authentication -> Shared Folder Access
 ![image alt](https://github.com/Kenneth1701/Active-Directory-Lab/blob/81e5b445364454780721e9f9991ecd68ef821e72/NTFS%20Permssion.png)
 - Assigned access via security groups
 
-🧪 **Troubleshoting Scenarios**
+🧪 **Troubleshooting Scenarios**
 🔥 **Scenario: User Cannot Access Shared Folder**
 ❌ **Issue**
 
@@ -71,7 +71,7 @@ Client -> Domain Controller -> Authentication -> Shared Folder Access
 - Permissions appeared correctly configured
 
 🔍 **Investigation** 
- - Verivied:
+ - Verified:
    - User is part of the correct security group
    - Share permissions are correctly assigned
    - NTFS permissions allow access
