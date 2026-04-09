@@ -15,7 +15,7 @@ The lab focuses not only on core Active Directory services but also on real trou
 
 🏗️ **Lab Architecture**
 Environment Setup:
-- Domain Controler (Windows Server)
+- Domain Controller (Windows Server)
 - Client Machine
 
 ⚙️ **Key Components:** 
@@ -31,7 +31,7 @@ Client -> Domain Controller -> Authentication -> Shared Folder Access
 - Active Directory Domain Services
 - DNS
 - File Sharing
-- Virtual Machine (VMWare
+- Virtual Machine (VMWare)
 
 ⚙️**Key Configuration**
 ✅ **Domain Controller Setup**
@@ -74,7 +74,7 @@ Client -> Domain Controller -> Authentication -> Shared Folder Access
  - Verivied:
    - User is part of the correct security group
    - Share permissions are correctly assigned
-   - NTFS permssions allow access
+   - NTFS permissions allow access
   -  Confirmed no obvious misconfiguration in access control
   -  Issues persisted despite correct configuration
 
