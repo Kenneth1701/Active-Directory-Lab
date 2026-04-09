@@ -2,7 +2,7 @@
 
 📌 **Overview**
 
-This project demonstrates the design and implementation of a Windows Active Dierectory Lab environment simulating a real-world enterprise network 
+This project demonstrates the design and implementation of a Windows Active Directory Lab environment simulating a real-world enterprise network 
 The lab focuses not only on core Active Directory services but also on real troubleshooting scenarios, including authentication issues, DNS behavior, password reset and file share permission conflicts. 
 
 🎯 **Objectives**
